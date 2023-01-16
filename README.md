@@ -1,6 +1,6 @@
 # Blockchain101 
 
-Simple explanation how Blockchain works using JavaScript. 
+Simple explanation how Blockchain works using JavaScript OOP pattern.
 
 ----
 This code defines a class called Blockchain that creates a blockchain with a genesis block and a pending transactions array. The class has several methods:
